@@ -1,23 +1,10 @@
 @import "tailwindcss";
-/* 
-:root {
-
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    margin: 0;
-    background-attachment: fixed;
-    background-color: rgb(235, 230, 230);
-} */
-
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 
 @theme {
     --font-quicksand: "Quicksand", sans-serif;
     --font-poppins: "Poppins", sans-serif;
     --font-playfair: "Playfair Display", serif;
     --font-ptserif: "PT Serif", serif;
-    --font-opensans: "Open Sans", sans-serif;
-
 
 }
