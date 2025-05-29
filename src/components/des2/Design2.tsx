@@ -19,7 +19,7 @@ const Design2 = () => {
         }
     }, [])
     return (
-        <div className="mx-32 my-16 " >
+        <div className="mx-4 md:mx-16 lg:mx-32 my-4 md:my-8 lg:my-16" >
             <Navbar2></Navbar2>
             <Home2></Home2>
 

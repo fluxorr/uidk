@@ -1,10 +1,11 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
 
 @theme {
     --font-quicksand: "Quicksand", sans-serif;
     --font-poppins: "Poppins", sans-serif;
     --font-playfair: "Playfair Display", serif;
     --font-ptserif: "PT Serif", serif;
+    --font-poiret: "Poiret One, monospace";
 
 }

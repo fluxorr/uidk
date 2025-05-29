@@ -6,14 +6,18 @@ const Home = () => {
         "Design 1",
         "Design 2",
         "Design 3",
-        "Design 4",
-        "Design 5",
-        "Design 6",
+        "Design 4 ╳ ",
+        "Design 5 ╳",
+        "Design 6 ╳",
+        "Design 7 ╳",
+        "Design 8",
+        "Design 9 ╳",
     ];
     const element = document.documentElement;
 
     useEffect(() => {
         element.style.backgroundColor = "#e9e5cd";
+        element.style.backgroundImage = ""
     }, []);
 
     return (

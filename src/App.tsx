@@ -3,7 +3,8 @@ import Design1 from './components/des1/Design1';
 
 import Home from './components/Home';
 import Design2 from './components/des2/Design2';
-import Design3 from './components/des3/Design3';
+import Designn from './components/des8/designn';
+import Des3 from './components/des3/Des3';
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
         <Route path="/uidk/" element={<Home />} />
         <Route path="/uidk/design1" element={<Design1 />} />
         <Route path="/uidk/design2" element={<Design2 />} />
-        <Route path="/uidk/design3" element={<Design3 />} />
+        <Route path="/uidk/design3" element={<Des3 />} />
+        <Route path="/uidk/design8" element={<Designn />} />
 
       </Routes>
 

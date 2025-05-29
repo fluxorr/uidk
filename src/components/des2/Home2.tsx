@@ -2,12 +2,12 @@
 const Home2 = () => {
 
     return (
-        <div className="text-white h-screen flex flex-col gap-4.5  items-start mt-[180px]  " >
-            <div className="text-7xl leading-18 font-poppins " >
+        <div className="text-white min-h-screen flex flex-col gap-4.5  items-start mt-8 md:mt-16 lg:mt-[180px]  " >
+            <div className="text-4xl md:text-6xl lg:text-7xl leading-18 font-poppins " >
                 <div>Your Engineering</div>
                 <div>Workflow on Autopilot</div>
             </div>
-            <div className="max-w-[28vw]" >
+            <div className="max-w-full md:max-w-[50vw] lg:max-w-[28vw]" >
                 <div>
                     Our Al learns your stack and automates builds, tests, and rollbacks—freeing up your team for real innovation.
                 </div>

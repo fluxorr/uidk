@@ -4,7 +4,7 @@ import Info from "./Info";
 import Projects from "./Projects";
 import Recognition from "./Recognition";
 
-const Design3 = () => {
+const Designn = () => {
     const element = document.documentElement;
 
     useEffect(() => {
@@ -25,4 +25,4 @@ const Design3 = () => {
     );
 };
 
-export default Design3;
+export default Designn;
