@@ -6,6 +6,7 @@ import Design2 from './components/des2/Design2';
 import Designn from './components/des8/designn';
 import Des3 from './components/des3/Des3';
 import Design4 from './components/design4/Design4';
+import './App.css'
 
 
 function App() {

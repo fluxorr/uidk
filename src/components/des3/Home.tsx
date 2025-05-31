@@ -22,7 +22,7 @@ export default function Home() {
     return (
         <div>
             <div ref={ref} className="flex flex-col text-neutral-100 items-center  mx-4 my-2 py-2  ">
-                <div className=" mt-48 justify-center items-center font-light flex gap-2 rounded-full border-1 px-4 py-1 border-white">
+                <div className=" mt-48 mb-8 justify-center items-center font-light flex gap-2 rounded-full border-1 px-4 py-1 border-white">
                     <LucideTimer size={20} />
                     Beta Version Is Live!
                 </div>

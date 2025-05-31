@@ -1,3 +1,5 @@
+import Bento from "./Bento";
+import Companies from "./Companies";
 import Home from "./Home"
 import Navbar from "./Navbar"
 import { useEffect } from "react";
@@ -12,6 +14,8 @@ function Design4() {
         <div>
             <Navbar />
             <Home />
+            <Companies />
+            <Bento />
         </div>
     )
 }
