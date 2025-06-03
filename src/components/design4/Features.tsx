@@ -44,7 +44,7 @@ const FeaturesProps = [
     {
         icon: <Files size={18} />,
         title: "Competitor reports",
-        description: "Provides insights into competitor's keyword strategies and ranking."
+        description: "Provides insights into competitors keyword strategies and ranking."
     }
 ]
 

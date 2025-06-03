@@ -7,7 +7,7 @@ const Home = () => {
         "Design 2",
         "Design 3",
         "Design 4",
-        "Design 5 ╳",
+        "Design 5 ",
         "Design 6 ╳",
         "Design 7 ╳",
         "Design 8",
